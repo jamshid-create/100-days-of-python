@@ -4,7 +4,7 @@ This repository contains my projects and learning progress throughout the **100 
 
 ## 📊 Progress
 
-**Days Completed:** 0 / 100
+**Days Completed:** 1 / 100
 
 **Status:** 🚧 In Progress
 
@@ -13,6 +13,10 @@ This repository contains my projects and learning progress throughout the **100 
 Projects will be added as I progress through the course.
 
 ---
+
+| Day | Project | Main Concepts | Status |
+|:---:|---|---|:---:|
+| 01 | [Band Name Generator](./day-01-band-name-generator) | Variables, Input, Strings | ✅ |
 
 ## 🧠 Skills I'm Building
 
