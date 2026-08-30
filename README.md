@@ -4,7 +4,7 @@ This repository contains my projects and learning progress throughout the **100 
 
 ## 📊 Progress
 
-**Days Completed:** 1 / 100
+**Days Completed:** 2 / 100
 
 **Status:** 🚧 In Progress
 
@@ -14,27 +14,28 @@ Projects will be added as I progress through the course.
 
 ---
 
-| Day | Project | Main Concepts | Status |
-|:---:|---|---|:---:|
-| 01 | [Band Name Generator](./day-01-band-name-generator) | Variables, Input, Strings | ✅ |
+| Day | Project                                             | Main Concepts                                                   | Status |
+| :-: | --------------------------------------------------- | --------------------------------------------------------------- | :----: |
+|  01 | [Band Name Generator](./day-01-band-name-generator) | Variables, Input, Strings                                       |    ✅   |
+|  02 | [Tip Calculator](./day-02-tip-calculator)           | Mathematical Operations, Data Types, Type Conversion, f-Strings |    ✅   |
 
 ## 🧠 Skills I'm Building
 
-- Python Fundamentals
-- Object-Oriented Programming
-- APIs
-- Web Scraping
-- Automation
-- Databases
-- Web Development
+* Python Fundamentals
+* Object-Oriented Programming
+* APIs
+* Web Scraping
+* Automation
+* Databases
+* Web Development
 
 ---
 
 ## 🎯 Goals
 
-- Complete the 100-day journey
-- Build 100+ Python projects
-- Strengthen my Python skills through hands-on practice
-- Improve my problem-solving skills
-- Build portfolio-ready projects
-- Develop good Git and GitHub habits
+* Complete the 100-day journey
+* Build 100+ Python projects
+* Strengthen my Python skills through hands-on practice
+* Improve my problem-solving skills
+* Build portfolio-ready projects
+* Develop good Git and GitHub habits
