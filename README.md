@@ -4,7 +4,7 @@ This repository contains my projects and learning progress throughout the **100 
 
 ## 📊 Progress
 
-**Days Completed:** 2 / 100
+**Days Completed:** 3 / 100
 
 **Status:** 🚧 In Progress
 
@@ -18,6 +18,7 @@ Projects will be added as I progress through the course.
 | :-: | --------------------------------------------------- | --------------------------------------------------------------- | :----: |
 |  01 | [Band Name Generator](./day-01-band-name-generator) | Variables, Input, Strings                                       |    ✅   |
 |  02 | [Tip Calculator](./day-02-tip-calculator)           | Mathematical Operations, Data Types, Type Conversion, f-Strings |    ✅   |
+| 03 | [Treasure Island](./day-03-treasure-island) | Conditional Statements, Logical Operators, Control Flow | ✅ |
 
 ## 🧠 Skills I'm Building
 
