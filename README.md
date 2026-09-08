@@ -4,7 +4,7 @@ This repository contains my projects and learning progress throughout the **100 
 
 ## 📊 Progress
 
-**Days Completed:** 6 / 100
+**Days Completed:** 7 / 100
 
 **Status:** 🚧 In Progress
 
@@ -22,6 +22,7 @@ Projects will be added as I progress through the course.
 | 04 | [Rock Paper Scissors](./day-04-rock-paper-scissors) | Lists, Random Module, Indexes, Conditional Logic | ✅ |
 | 05 | [Password Generator](./day-05-password-generator) | For Loops, range(), append(), random.choice(), random.shuffle() | ✅ |
 | 06 | [Reeborg's World - Escaping the Maze](./day-06-reeborgs-world) | Functions, While Loops, Conditional Logic | ✅ |
+| 07 | [Hangman](./day-07-hangman) | Functions, Loops, Conditional Logic, Custom Modules | ✅ |
 
 ## 🧠 Skills I'm Building
 
