@@ -28,7 +28,7 @@ while not game_over:
 
     print(f"**********************{lives}/6 LIVES LEFT***********************")
 
-    guess = input("Guess a letter: "). lower()
+    guess = input("Guess a letter: ").lower()
 
     if guess in correct_letters:
         print(f"You've already guessed {guess}")
