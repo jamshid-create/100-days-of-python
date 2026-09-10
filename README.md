@@ -4,7 +4,7 @@ This repository contains my projects and learning progress throughout the **100 
 
 ## 📊 Progress
 
-**Days Completed:** 8 / 100
+**Days Completed:** 9 / 100
 
 **Status:** 🚧 In Progress
 
@@ -24,6 +24,7 @@ Projects will be added as I progress through the course.
 | 06 | [Reeborg's World - Escaping the Maze](./day-06-reeborgs-world) | Functions, While Loops, Conditional Logic | ✅ |
 | 07 | [Hangman](./day-07-hangman) | Functions, Loops, Conditional Logic, Custom Modules | ✅ |
 | 08 | [Caesar Cipher](./day-08-caesar-cipher) | Functions with Inputs, Parameters, Arguments, Positional Arguments, Keyword Arguments, Modulo Operator, While Loops | ✅ |
+| 09 | [Secret Auction](./day-09-secret-auction) | Dictionaries, Key-Value Pairs, Accessing Values by Keys, Iterating Through Dictionaries | ✅ |
 
 ## 🧠 Skills I'm Building
 
