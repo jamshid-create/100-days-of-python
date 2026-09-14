@@ -4,7 +4,7 @@ This repository contains my projects and learning progress throughout the **100 
 
 ## 📊 Progress
 
-**Days Completed:** 9 / 100
+**Days Completed:** 10 / 100
 
 **Status:** 🚧 In Progress
 
@@ -25,6 +25,7 @@ Projects will be added as I progress through the course.
 | 07 | [Hangman](./day-07-hangman) | Functions, Loops, Conditional Logic, Custom Modules | ✅ |
 | 08 | [Caesar Cipher](./day-08-caesar-cipher) | Functions with Inputs, Parameters, Arguments, Positional Arguments, Keyword Arguments, Modulo Operator, While Loops | ✅ |
 | 09 | [Secret Auction](./day-09-secret-auction) | Dictionaries, Key-Value Pairs, Accessing Values by Keys, Iterating Through Dictionaries | ✅ |
+| 10 | [Calculator](./day-10-calculator) | Functions as Dictionary Values, Dynamic Function Calls, Recursion | ✅ |
 
 ## 🧠 Skills I'm Building
 
