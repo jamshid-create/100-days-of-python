@@ -4,7 +4,7 @@ This repository contains my projects and learning progress throughout the **100 
 
 ## 📊 Progress
 
-**Days Completed:** 11 / 100
+**Days Completed:** 12 / 100
 
 **Status:** 🚧 In Progress
 
@@ -27,6 +27,7 @@ Projects will be added as I progress through the course.
 | 09 | [Secret Auction](./day-09-secret-auction) | Dictionaries, Key-Value Pairs, Accessing Values by Keys, Iterating Through Dictionaries | ✅ |
 | 10 | [Calculator](./day-10-calculator) | Functions as Dictionary Values, Dynamic Function Calls, Recursion | ✅ |
 | 11 | [Blackjack](./day-11-the-blackjack-game) | Functions, Lists, Loops, Conditional Logic, Random Module, Game State, Recursion | ✅ |
+| 12 | [The Number Guessing Game](./day-12-The-Number-Guessing-Game) | Scope, Global Constants, Game State | ✅ |
 
 ## 🧠 Skills I'm Building
 
