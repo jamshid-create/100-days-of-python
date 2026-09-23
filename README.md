@@ -4,7 +4,7 @@ This repository contains my projects and learning progress throughout the **100 
 
 ## 📊 Progress
 
-**Days Completed:** 12 / 100
+**Days Completed:** 13 / 100
 
 **Status:** 🚧 In Progress
 
@@ -28,6 +28,7 @@ Projects will be added as I progress through the course.
 | 10 | [Calculator](./day-10-calculator) | Functions as Dictionary Values, Dynamic Function Calls, Recursion | ✅ |
 | 11 | [Blackjack](./day-11-the-blackjack-game) | Functions, Lists, Loops, Conditional Logic, Random Module, Game State, Recursion | ✅ |
 | 12 | [The Number Guessing Game](./day-12-The-Number-Guessing-Game) | Scope, Global Constants, Game State | ✅ |
+| 13 | [Debugging](./day-13-debugging) | Debugging Techniques, Error Handling, Problem Solving | 📚 |
 
 ## 🧠 Skills I'm Building
 
